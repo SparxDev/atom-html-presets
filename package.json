@@ -1,0 +1,17 @@
+{
+  "name": "html-presets",
+  "main": "./lib/html-presets",
+  "version": "1.0.0",
+  "description": "A few code presets for HTML",
+  "keywords": [
+  ],
+  "activationCommands": {
+  },
+  "repository": "https://github.com/SparxDev/atom-html-presets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

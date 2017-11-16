@@ -1,0 +1,42 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Paste Standard HTML Structure",
+        "command": "html-presets:insert"
+      },
+      {
+        "label": "Paste Navigation Structure",
+        "command": "html-presets:navbar"
+      },
+      {
+        "label": "Paste Footer Structure",
+        "command": "html-presets:footer"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "HTML Presets",
+          "submenu": [
+            {
+              "label": "Paste Standard HTML Structure",
+              "command": "html-presets:insert"
+            },
+            {
+              "label": "Paste Navigation Structure",
+              "command": "html-presets:navbar"
+            },
+            {
+              "label": "Paste Footer Structure",
+              "command": "html-presets:footer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

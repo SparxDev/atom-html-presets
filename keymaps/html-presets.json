@@ -1,0 +1,7 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-h": "html-presets:insert",
+    "ctrl-alt-n": "html-presets:navbar",
+    "ctrl-alt-f": "html-presets:footer"
+  }
+}

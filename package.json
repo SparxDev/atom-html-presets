@@ -1,7 +1,7 @@
 {
   "name": "html-presets",
   "main": "./lib/html-presets",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "A few code presets for HTML",
   "keywords": [],
   "activationCommands": {},
